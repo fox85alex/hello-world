@@ -1,2 +1,3 @@
 # hello-world
-Github tutorial
+
+What the hell is coffeescript?
