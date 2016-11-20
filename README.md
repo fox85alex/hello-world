@@ -1,3 +1,5 @@
 # hello-world
 
-What the hell is coffeescript?
+What the hell.. coffeescript?
+
+What's that for?
